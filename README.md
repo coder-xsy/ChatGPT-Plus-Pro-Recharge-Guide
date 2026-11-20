@@ -181,6 +181,13 @@ Plus 原价 ¥168、现价 **¥139**，Pro 5X 原价 ¥800、现价 **¥699**，
 
 ---
 
+## 更多教程
+
+- [如何注册苹果美区账号（2026最新教程）](us-app-store-account.md)
+- [用 +86 手机号注册 Gmail 邮箱教程（2026）](register-gmail-with-china-phone.md)
+
+---
+
 ## 联系方式
 
 - **🌐 开通入口：** https://prodclub.ai/r/JFQ72K
