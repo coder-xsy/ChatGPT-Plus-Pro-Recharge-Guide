@@ -154,9 +154,3 @@ A：可以。苹果允许任何国家的手机号用于验证，手机号归属�
 美区 Apple ID 注册教程、美国 Apple ID 注册、美区 Apple ID 怎么注册、美国 Apple ID 怎么注册、美区 App Store 账号注册、美区 App Store 账号、美区 Apple ID 不用信用卡、美区 Apple ID 无需信用卡、美区 Apple ID 中国手机号、美区 Apple ID +86、美区 Apple ID 免税州地址、美区 Apple ID 地址怎么填、美区 Apple ID 俄勒冈地址、美区 Apple ID 目前无法完成你的请求、美区 Apple ID 改区、国区 Apple ID 改美区、美区 App Store 切换账号、iOS 26.4 美区 App Store 切换、ChatGPT 美区下载、ChatGPT 美区 App Store、美国 Apple ID 注册 2026、美区 Apple ID 礼品卡充值、美区 Apple ID 付款方式无。
 
 *Apple ID 注册流程以 Apple 官方页面为准，如界面有更新请以实际操作为准。*
-
-**参考资料：**
-
-- 本文参考：https://sealvpnapp.com/zh/blog/register-us-apple-id-no-credit-card
-- Apple 官方 - 创建 Apple 账户：https://support.apple.com/zh-cn/108647
-- Apple 官方 - 更改账户国家或地区：https://support.apple.com/zh-cn/118283
