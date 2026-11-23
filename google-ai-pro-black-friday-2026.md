@@ -1,4 +1,4 @@
-# 谷歌 AI Pro 黑五半价攻略（2026）：AI Plus 只要 $2.5/月，AI Pro 年付 $99.99，老用户 11 月 26 日前领
+# 谷歌 AI Pro 黑五半价攻略（2026）：AI Plus 只要 $2.5/月，AI Pro 年付 $99.99，老用户 11 月 26 日前领（11 月 23 日更新）
 
 谷歌 AI Pro 黑五、Google AI Pro 半价、谷歌 AI Pro 99.99 美元、Gemini 黑五优惠、Google AI Pro 便宜买、AI Pro 年付半价。
 

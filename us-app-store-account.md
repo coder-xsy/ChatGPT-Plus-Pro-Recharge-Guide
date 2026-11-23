@@ -1,4 +1,4 @@
-# 如何注册苹果美区账号（2026最新教程）
+# 如何注册苹果美区账号（2026最新教程）（11 月 23 日更新）
 
 > 美区 Apple ID 注册教程 · 美国 Apple ID 注册 · 美区 App Store 账号注册 · 美区 Apple ID 不用信用卡 · 美区 Apple ID 中国手机号 · 美区 Apple ID 免税州地址 · 美国 Apple ID 注册 2026 · 美区 App Store 切换账号 · ChatGPT 美区下载
 

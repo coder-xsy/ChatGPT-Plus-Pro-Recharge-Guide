@@ -183,11 +183,11 @@ Plus 原价 ¥168、现价 **¥139**，Pro 5X 原价 ¥800、现价 **¥699**，
 
 ## 更多教程
 
-- [如何注册苹果美区账号（2026最新教程）](us-app-store-account.md)
-- [用 +86 手机号注册 Gmail 邮箱教程（2026）](register-gmail-with-china-phone.md)
-- [2026 黑五 VPS 购买指南：最便宜的 VPS 渠道整理](black-friday-vps-deals-2026.md)
-- [ChatGPT 常见报错自救手册（2026）：登录不上、请求太频繁、账号被封怎么办](chatgpt-common-errors-fix.md)
-- [谷歌 AI Pro 黑五半价攻略（2026）：AI Plus 只要 $2.5/月，AI Pro 年付 $99.99，老用户 11 月 26 日前领](google-ai-pro-black-friday-2026.md)
+- [如何注册苹果美区账号（2026最新教程）（11 月 23 日更新）](us-app-store-account.md)
+- [用 +86 手机号注册 Gmail 邮箱教程（2026）（11 月 23 日更新）](register-gmail-with-china-phone.md)
+- [2026 黑五 VPS 购买指南（11 月 23 日更新）：最便宜的 VPS 渠道整理](black-friday-vps-deals-2026.md)
+- [ChatGPT 常见报错自救手册（2026）：登录不上、请求太频繁、账号被封怎么办（11 月 23 日更新）](chatgpt-common-errors-fix.md)
+- [谷歌 AI Pro 黑五半价攻略（2026）：AI Plus 只要 $2.5/月，AI Pro 年付 $99.99，老用户 11 月 26 日前领（11 月 23 日更新）](google-ai-pro-black-friday-2026.md)
 
 ---
 
