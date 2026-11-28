@@ -1,4 +1,4 @@
-# 2026 黑五软件会员优惠整理（11 月 26 日更新）：AI 订阅、Adobe、VPN、密码管理
+# 2026 黑五软件会员优惠整理（11 月 28 日更新）：AI 订阅、Adobe、VPN、密码管理
 
 黑五软件会员、黑五订阅优惠、ChatGPT 黑五、Claude 黑五、Adobe 黑五、NordVPN 黑五、1Password 黑五、Microsoft 365 黑五、Coursera 黑五
 

@@ -1,4 +1,4 @@
-# ChatGPT 常见报错自救手册（2026）：登录不上、请求太频繁、账号被封怎么办（11 月 26 日更新）
+# ChatGPT 常见报错自救手册（2026）：登录不上、请求太频繁、账号被封怎么办（11 月 28 日更新）
 
 ChatGPT 报错自救、ChatGPT 登录不上、ChatGPT too many requests、ChatGPT something went wrong、ChatGPT 账号被封申诉、ChatGPT 网络错误、ChatGPT 验证码收不到、ChatGPT 付款失败。
 
